@@ -1,0 +1,38 @@
+{
+    "SearchForFood": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\SOFTest2\\SearchForFood\\SearchForFood-499968.onnx",
+                "reward": 0.13333333333333333,
+                "creation_time": 1700669060.8799036,
+                "auxillary_file_paths": [
+                    "results\\SOFTest2\\SearchForFood\\SearchForFood-499968.pt"
+                ]
+            },
+            {
+                "steps": 500032,
+                "file_path": "results\\SOFTest2\\SearchForFood\\SearchForFood-500032.onnx",
+                "reward": 0.13333333333333333,
+                "creation_time": 1700669060.9447658,
+                "auxillary_file_paths": [
+                    "results\\SOFTest2\\SearchForFood\\SearchForFood-500032.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500032,
+            "file_path": "results\\SOFTest2\\SearchForFood.onnx",
+            "reward": 0.13333333333333333,
+            "creation_time": 1700669060.9447658,
+            "auxillary_file_paths": [
+                "results\\SOFTest2\\SearchForFood\\SearchForFood-500032.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

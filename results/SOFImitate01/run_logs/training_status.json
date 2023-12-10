@@ -1,0 +1,29 @@
+{
+    "SearchForFood": {
+        "checkpoints": [
+            {
+                "steps": 220887,
+                "file_path": "results\\SOFImitate01\\SearchForFood\\SearchForFood-220887.onnx",
+                "reward": 1.0,
+                "creation_time": 1700843366.2973554,
+                "auxillary_file_paths": [
+                    "results\\SOFImitate01\\SearchForFood\\SearchForFood-220887.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 220887,
+            "file_path": "results\\SOFImitate01\\SearchForFood.onnx",
+            "reward": 1.0,
+            "creation_time": 1700843366.2973554,
+            "auxillary_file_paths": [
+                "results\\SOFImitate01\\SearchForFood\\SearchForFood-220887.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

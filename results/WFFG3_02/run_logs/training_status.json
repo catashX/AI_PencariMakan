@@ -1,0 +1,29 @@
+{
+    "WorkForFood": {
+        "checkpoints": [
+            {
+                "steps": 364969,
+                "file_path": "results\\WFFG3_02\\WorkForFood\\WorkForFood-364969.onnx",
+                "reward": 2.0,
+                "creation_time": 1702145817.9080942,
+                "auxillary_file_paths": [
+                    "results\\WFFG3_02\\WorkForFood\\WorkForFood-364969.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 364969,
+            "file_path": "results\\WFFG3_02\\WorkForFood.onnx",
+            "reward": 2.0,
+            "creation_time": 1702145817.9080942,
+            "auxillary_file_paths": [
+                "results\\WFFG3_02\\WorkForFood\\WorkForFood-364969.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

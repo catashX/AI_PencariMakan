@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1702126582",
+        "python_version": "3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Projects\\UnityForKuliah\\ProjectAI\\venv\\Scripts\\mlagents-learn config/ImitateConfigGen201.yaml --run-id=WFF01",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.1+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1702126609"
+    },
+    "total": 27.0857818,
+    "count": 1,
+    "self": 0.011082100000002981,
+    "children": {
+        "run_training.setup": {
+            "total": 0.13469229999999754,
+            "count": 1,
+            "self": 0.13469229999999754
+        },
+        "TrainerController.start_learning": {
+            "total": 26.9400074,
+            "count": 1,
+            "self": 0.00017059999999347042,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 26.9398255,
+                    "count": 1,
+                    "self": 26.9398255
+                },
+                "TrainerController._save_models": {
+                    "total": 1.1300000004155208e-05,
+                    "count": 1,
+                    "self": 1.1300000004155208e-05
+                }
+            }
+        }
+    }
+}
