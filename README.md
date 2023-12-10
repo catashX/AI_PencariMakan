@@ -9,7 +9,7 @@
  Ini adalah file project dari unity, membutuhkan beberapa prerequisites, untuk build version ada pada drive [ini](https://drive.google.com/drive/folders/1OYnJnng8LXUGGDiJLN7w_1XTJ4dCfCPu?usp=sharing).
  
  ## Overview
- Pengembangan model-based agent dengan beberapa pendekatan menggunakan [Unity Machine Learning Agents](https://github.com/Unity-Technologies/ml-agents) dengan Deep Reinforcement Learning (DRL) dan Generative Adversarial Imitation Learning (GAIL) ataupun hardcoded/manual dengan bantuan [Unity Navmesh](https://docs.unity3d.com/ScriptReference/AI.NavMesh.html) (turunan dari A*).
+ Pengembangan agent dengan beberapa pendekatan menggunakan [Unity Machine Learning Agents](https://github.com/Unity-Technologies/ml-agents) dengan Deep Reinforcement Learning (DRL) dan Generative Adversarial Imitation Learning (GAIL) ataupun hardcoded/manual dengan bantuan [Unity Navmesh](https://docs.unity3d.com/ScriptReference/AI.NavMesh.html) (turunan dari A*).
 
 ## Prerequisites
 
