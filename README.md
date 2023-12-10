@@ -14,6 +14,8 @@
 ## Prerequisites
 
 - Unity Hub
-- Unity Editor (version X.X.X)
-- Python (version 3.X)
-- ML-Agents Toolkit (version X.X.X)
+- Unity Editor
+- Python
+- PyTorch
+- Cuda (for GPU)
+- ML-Agents Toolkit
